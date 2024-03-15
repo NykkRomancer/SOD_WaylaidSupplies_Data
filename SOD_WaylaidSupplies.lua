@@ -539,7 +539,7 @@ NykkRomancer.SOD_WaylaidSupplies = NykkRomancer.SOD_WaylaidSupplies or {
         Reputation = 300,
         Money = 600,
         Item = {
-            ID = 7751,
+            ID = 6290,
             Quantity = 20,
         },
     },
